@@ -3,11 +3,11 @@
 <li>👋 Hi, I’m Ben</li>
 <li>👀 I’m interested in Full-Stack Web development</li>
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/VerbifyProject/verbify">Verbify</a> and many other projects.</li>
+    <li>🔭 I’m currently working on <a href="https://github.com/benotur/wander">Wander</a> and many other projects.</li>
     <li>👨🏻&zwj;💻 Most of my projects are available on <a href="https://github.com/benotur">Github</a>.</li>
   </ul>
 <br>
-<li>🌱 I’m currently studying at SPŠEKE - Technical and Cybernetic High School of Košice
+<li>🌱 I’m currently studying at Deutsche Telekom IT Solutions Slovakia.
 <li>⚡ Fun fact: I enjoy learning new languages, not just the programming ones.</li>
 </ul>
 
