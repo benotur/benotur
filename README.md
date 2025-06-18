@@ -17,8 +17,8 @@
 </ul>
 
 <h3>⚡ Github Stats</h3>
-<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=benotur&show_icons=true&theme=darcula"></a>
-<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benotur&theme=darcula"></a>
+<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=benotur&show_icons=true&theme=github_dark"></a>
+<a><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benotur&layout=compact&theme=github_dark"></a>
 
 <br>
 <h2 align="center">👇🏻 List of some open-source projects I'm working on 👇🏻</h2>
