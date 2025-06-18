@@ -4,7 +4,7 @@
 <li>👀 I’m interested in Full-Stack Web development</li>
   <ul>
     <li>🔭 I’m currently working on <a href="https://github.com/benotur/wander">Wander</a> and many other projects.</li>
-    <li>👨🏻&zwj;💻 Most of my projects are available on <a href="https://portfolio-bentur.netlify.app/"></a> and <a href="https://github.com/benotur">Github</a>.</li>
+    <li>👨🏻&zwj;💻 Most of my projects are available on <a href="https://portfolio-bentur.netlify.app/">Portfolio</a> and <a href="https://github.com/benotur">Github</a>.</li>
   </ul>
 <br>
 <li>🌱 I’m currently studying at Deutsche Telekom IT Solutions Slovakia.
